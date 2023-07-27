@@ -1,1 +1,0 @@
-// starting node course
